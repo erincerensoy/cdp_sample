@@ -1,0 +1,11 @@
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\bin\Debug\netcoreapp2.1\cdp_sample.deps.json
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\bin\Debug\netcoreapp2.1\cdp_sample.runtimeconfig.json
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\bin\Debug\netcoreapp2.1\cdp_sample.runtimeconfig.dev.json
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\bin\Debug\netcoreapp2.1\cdp_sample.dll
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\bin\Debug\netcoreapp2.1\cdp_sample.pdb
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\obj\Debug\netcoreapp2.1\cdp_sample.csprojAssemblyReference.cache
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\obj\Debug\netcoreapp2.1\cdp_sample.csproj.CoreCompileInputs.cache
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\obj\Debug\netcoreapp2.1\cdp_sample.AssemblyInfoInputs.cache
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\obj\Debug\netcoreapp2.1\cdp_sample.AssemblyInfo.cs
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\obj\Debug\netcoreapp2.1\cdp_sample.dll
+C:\Users\02484220\Desktop\Mimari\works\cdp_sample\obj\Debug\netcoreapp2.1\cdp_sample.pdb
